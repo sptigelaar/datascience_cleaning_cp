@@ -1,0 +1,58 @@
+Tidy data code book
+=======================
+
+The tidy data set contains the following data:
+
+- Activity - string describing the activity of the subject
+	WALKING
+	WALKING_UPSTAIRS
+	WALKING_DOWNSTAIRS
+	SITTING
+	STANDING
+	LAYING
+
+- Subject_number - integer describing the identification number of the subject
+	1:30
+
+ The following measures are reported as averages (mean) per subject-activity combination.
+tBodyAcc-mean()-XYZ
+tBodyAcc-std()-XYZ
+tGravityAcc-mean()-XYZ
+tGravityAcc-std()-XYZ
+tBodyAccJerk-mean()-XYZ
+tBodyAccJerk-std()-XYZ
+tBodyGyro-mean()-XYZ
+tBodyGyro-std()-XYZ
+tBodyGyroJerk-mean()-XYZ
+tBodyGyroJerk-std()-XYZ
+tBodyAccMag-mean()
+tBodyAccMag-std()
+tGravityAccMag-mean()
+tGravityAccMag-std()
+tBodyAccJerkMag-mean()
+tBodyAccJerkMag-std()
+tBodyGyroMag-mean()
+tBodyGyroMag-std()
+tBodyGyroJerkMag-mean()
+tBodyGyroJerkMag-std()
+fBodyAcc-mean()-XYZ
+fBodyAcc-std()-XYZ
+fBodyAcc-meanFreq()-XYZ
+fBodyAccJerk-mean()-XYZ
+fBodyAccJerk-std()-XYZ
+fBodyAccJerk-meanFreq()-XYZ
+fBodyGyro-mean()-XYZ
+fBodyGyro-std()-XYZ
+fBodyGyro-meanFreq()-XYZ
+fBodyAccMag-mean()
+fBodyAccMag-std()
+fBodyAccMag-meanFreq()
+fBodyBodyAccJerkMag-mean()
+fBodyBodyAccJerkMag-std()
+fBodyBodyAccJerkMag-meanFreq()
+fBodyBodyGyroMag-mean()
+fBodyBodyGyroMag-std()
+fBodyBodyGyroMag-meanFreq()
+fBodyBodyGyroJerkMag-mean()
+fBodyBodyGyroJerkMag-std()
+fBodyBodyGyroJerkMag-meanFreq()
